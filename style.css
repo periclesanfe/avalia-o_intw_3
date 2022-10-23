@@ -1,0 +1,26 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.h1primeiro {
+    background-color: #eff3fa;
+    color: #1e3790;
+    font-size: 0.6em;
+    -ms-flex-align: center;
+}
+
+form {
+    border: 1px solid #000 ;
+}
+
+input[type="text"], select {
+    float: right;
+}
+
+input[type="checkbox"] {
+    justify-content: space-between;
+}
